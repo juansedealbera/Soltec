@@ -1,4 +1,4 @@
-import { renderizarProductos } from './vista.js';
+import { renderizarProductos } from './vista.mjs';
 
 // Función para obtener productos y renderizarlos
 const cargarProductos = async () => {
